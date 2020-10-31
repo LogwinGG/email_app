@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
 
-import 'package:emailapp/Message.dart';
+import 'package:emailapp/service/Message.dart';
 import 'package:emailapp/screen/message_detail.dart';
 
 import 'package:intl/intl.dart'; //date format
